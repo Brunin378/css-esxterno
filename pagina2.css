@@ -1,0 +1,46 @@
+body{
+    background-image: url("https://wallpapers.com/images/hd/minecraft-sunset-hrp6melagttqwt6o.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h2,h1{
+    text-align: center;
+    color: black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.texto2{
+    background-color: rgb(70,70,70);
+    color: white;
+    font-family: cursive;
+    text-align: center;
+
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    padding: 1em;
+
+    border-radius: 10px;
+}
+
+.Acesse{
+    background-color: aqua;
+    color: black;
+    text-decoration: none;
+    margin-top: 40px;
+    margin-left: 45%;
+    margin-right: 40px;
+    margin-bottom: 40px;
+    padding: 0.3em;
+    border-radius: 20px;
+}
+
+.Acesse:hover{
+    outline: 4px solid orange;
+    outline-offset: 1px;
+    transition: 0.7s;
+    back
+}
