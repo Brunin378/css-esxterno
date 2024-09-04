@@ -1,0 +1,6 @@
+body{
+ background-image: url("https://images.playground.com/1d7c0b841e61419b8d058c3f76c3b1cc.jpeg");
+ background-repeat: no-repeat;
+ background-size: cover;
+ backdrop-filter: blur(40px);
+}
